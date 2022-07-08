@@ -1,6 +1,6 @@
 Heya! Replit's Token Scanner found your token in a published Repl!
 
-Date: 07/08/22 at 6:49:42 UTC-0
+Date: 07/08/22 at 6:51:41 UTC-0
 Location: https://replit.com/@STORM-SHADOWSHA/Botu#config/config.json
 Type: Discord
 Token: OTk1MDE3MzgzMzgxMDQ5Mzk0.Gh1BH5.qGPYUOcKWI-OHW94gj2wQlHhHeI
