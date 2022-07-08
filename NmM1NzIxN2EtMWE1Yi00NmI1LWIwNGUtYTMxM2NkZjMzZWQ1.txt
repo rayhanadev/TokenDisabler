@@ -1,6 +1,6 @@
 Heya! Replit's Token Scanner found your token in a published Repl!
 
-Date: 07/08/22 at 9:27:42 UTC-0
+Date: 07/08/22 at 9:28:43 UTC-0
 Location: https://replit.com/@MazenMohamed14/Token-Genratot#Generated.txt
 Type: Discord
 Token: NTU6xympr1aI3fERqJ1jvYzc.ErMniu.sH25vXsuMg3YcnEDHTdNvdq8mep
