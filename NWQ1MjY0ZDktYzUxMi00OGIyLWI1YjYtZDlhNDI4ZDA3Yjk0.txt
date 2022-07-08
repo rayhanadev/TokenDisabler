@@ -1,6 +1,6 @@
 Heya! Replit's Token Scanner found your token in a published Repl!
 
-Date: 07/08/22 at 6:26:17 UTC-0
+Date: 07/08/22 at 6:27:20 UTC-0
 Location: https://replit.com/@mrpickledan/discord-nuke#main.py
 Type: Discord
 Token: OTk0MzcxNzU4MTM0MTQ1MTE0.GLteG0.YCdY_utA4NioGavJmLUYPAqjT2h
