@@ -1,0 +1,11 @@
+Heya! Replit's Token Scanner found your token in a published Repl!
+
+Type: Discord
+Location: https://replit.com/@TheUselessBot/TheUselessBot
+Token: OTk0NjQzNjYxNzU5NDY3NTcx.GYf9aN.WXkm_0wvplXkV6dBMnWN7TDQkSE
+
+Your token has been revoked at Discord because Github scans these
+repositories for secrets.
+
+Please keep your token safe! You can do this by using Replit's secrets tab. To learn
+how to use it, read: https://docs.replit.com/tutorials/storing-secrets-and-history
