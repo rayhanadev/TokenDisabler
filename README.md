@@ -1,4 +1,6 @@
-![](https://edge.furret.codes/f/replit-token-scanner.png)
+> :warning: This repository has been archived because testing is now complete :). The tokens here will remain, however the new
+> token dump is located at [rayhanadev/Replit-Token-Dump](https://github.com/rayhanadev/Replit-Token-Dump) which uses the new
+> format.
 
 # TokenDisabler
 
